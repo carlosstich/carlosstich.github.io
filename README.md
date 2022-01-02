@@ -1,5 +1,4 @@
-# andrewvuong123.github.io
+# dxu5.github.io
 <br>
-First iteration of my personal website. Built with Github Pages. 
+My newest personal website format. Please check it out!
 <br>
-Deployed app: https://andrewvuong123.github.io/
